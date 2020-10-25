@@ -1,3 +1,9 @@
+###Implementation of a neural network capable of detecting a face mask in real time.
+## Implemented in python with tools such as tensorflow.keras and opencv.
+
+
+![alt text](./face-detection.png "Logo Title Text 1")
+![alt text](./mask-detection.png "Logo Title Text 2")
 Please read the documentation for details
 	https://drive.google.com/file/d/13CU_rcgHCauQr4UoSHdgNET5N9WSgWXa/view?usp=sharing
 
